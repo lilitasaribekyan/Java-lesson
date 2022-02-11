@@ -19,5 +19,20 @@ public class Lesson
         System.out.println(db);
         System.out.println(dc);
 
+        //>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+        int а = 1;
+        int Ь = 2;
+        int с;
+        int d;
+        с = ++Ь;
+        d = а++;
+        System.out.println("a = " + a);
+        System.out.println("b = " + b);
+        System.out.println("c = " + c);
+        System.out.println("d = " + d);
+
+
     }
 }
