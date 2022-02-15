@@ -22,16 +22,16 @@ public class Lesson
         //>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 
-        int а = 1;
-        int Ь = 2;
-        int с;
-        int d;
-        с = ++Ь;
-        d = а++;
-        System.out.println("a = " + a);
-        System.out.println("b = " + b);
-        System.out.println("c = " + c);
-        System.out.println("d = " + d);
+        int aa = 1;
+        int bb = 2;
+        int cc;
+        int dd;
+        cc = ++bb;
+        dd = aa++;
+        System.out.println("aa = " + aa);
+        System.out.println("bb = " + bb);
+        System.out.println("cc = " + cc);
+        System.out.println("dd = " + dd);
 
 
     }
